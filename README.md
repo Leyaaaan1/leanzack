@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leanzack
+- 👋 Hi, I’m @lean
 - 👀 Spring
 - 🌱 I’m currently learning Spring Security
 
